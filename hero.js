@@ -146,6 +146,7 @@ var move = function(gameData, helpers) {
   }
 };
 
+//
 
 /*
 // The "Selfish Diamond Miner"
